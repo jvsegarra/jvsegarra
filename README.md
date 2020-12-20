@@ -1,5 +1,7 @@
 ### Hey, I'm Josep Segarra 👋
 
+Backend engineer, project lead and tennis addict :relaxed:
+
 ### Skills / Tech
 #### Backend development
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
@@ -22,12 +24,11 @@
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
 
 #### Project management
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=blue)
 
-... And many more
+... And many more :blush:
 
-### Find me at:
+### Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josep-vicent-segarra-sola-222bb420/?locale=en_US)](https://www.linkedin.com/in/josep-vicent-segarra-sola-222bb420/?locale=en_US)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jvsegarra)](https://twitter.com/jvsegarra)
