@@ -5,13 +5,16 @@ Backend engineer, project lead and tennis addict :relaxed:
 ### Skills / Tech
 #### Backend development
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Quarkus-informational?style=flat&logo=quarkus&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Ktor-informational?style=flat&logo=ktor&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Symfony-informational?style=flat&logo=symfony&logoColor=white&color=blue)
 
 #### Frontend development
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
@@ -28,6 +31,8 @@ Backend engineer, project lead and tennis addict :relaxed:
 
 #### Project management
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Scrum-informational?style=flat&logo=scrum&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Kanban-informational?style=flat&logo=kanban&logoColor=white&color=blue)
 
 ... And many more :blush:
 
