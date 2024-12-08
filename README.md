@@ -1,6 +1,6 @@
 ### Hey, I'm Josep Segarra 👋
 
-Backend engineer, project lead and tennis addict :relaxed:
+Tech lead / Tech manager and tennis addict :relaxed:
 
 ### Skills / Tech
 #### Backend development
