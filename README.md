@@ -4,12 +4,11 @@ Tech lead / Tech manager and tennis addict :relaxed:
 
 ### Skills / Tech
 #### Backend development
-![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Quarkus-informational?style=flat&logo=quarkus&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Ktor-informational?style=flat&logo=ktor&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Symfony-informational?style=flat&logo=symfony&logoColor=white&color=blue)
 
